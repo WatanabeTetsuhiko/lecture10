@@ -1,0 +1,30 @@
+{
+  "bitwise": true,
+  "browser": true,
+  "camelcase": false,
+  "curly": true,
+  "devel": true,
+  "esnext": false,
+  "eqeqeq": false,
+  "eqnull": true,
+  "expr" : true,
+  "immed": false,
+  "indent": false,
+  "latedef": false,
+  "maxlen": false,
+  "maxstatements": false,
+  "newcap": false,
+  "node": true,
+  "strict": false,
+  "trailing": false,
+  "undef": true,
+  "unused": false,
+  "white": false,
+  "predef": [
+    "define",
+    "require",
+    "it",
+    "chai",
+    "describe"
+  ]
+}
